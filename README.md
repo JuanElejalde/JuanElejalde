@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B10,50:00FF87,100:080B10&height=120&section=header&text=Juan%20Elejalde&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+# Juan Elejalde
 
 </div>
 
@@ -137,9 +137,3 @@ Actualmente busco mi primer rol como **QA Automation Junior** o **Frontend Devel
 | SQL · Postman · REST APIs · JavaScript | LinkedIn Learning | 2026 |
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B10,50:00FF87,100:080B10&height=80&section=footer" width="100%"/>
-
-</div>
