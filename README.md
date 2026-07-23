@@ -17,6 +17,7 @@
 
 Ingeniero de Sistemas (UNAD) especializado en **QA Automation** y **Desarrollo Frontend**. Apasionado por construir software de calidad y automatizar procesos de prueba.
 
+```javascript
 const juan = {
   rol:          "QA Automation & Frontend Developer",
   ubicacion:    "Ibagué, Colombia 🇨🇴",
@@ -25,6 +26,7 @@ const juan = {
   herramientas: ["Postman", "Git", "GitHub Actions", "Figma"],
   disponible:   true
 }
+```
 
 ---
 
