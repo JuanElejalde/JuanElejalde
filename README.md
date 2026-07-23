@@ -20,14 +20,9 @@
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero de Sistemas (UNAD) con enfoque en **QA Automation** 
-y **Desarrollo Frontend**. He construido herramientas reales — 
-desde apps de escritorio con OCR hasta dashboards con APIs en 
-tiempo real — siempre con atención a la calidad y los detalles.
+Ingeniero de Sistemas (UNAD) con enfoque en **QA Automation** y **Desarrollo Frontend**. He construido herramientas reales — desde apps de escritorio con OCR hasta dashboards con APIs en tiempo real — siempre con atención a la calidad y los detalles.
 
-Actualmente busco mi primer rol como **QA Automation Junior** 
-o **Frontend Developer Junior** en un equipo donde pueda 
-aportar y seguir creciendo.
+Actualmente busco mi primer rol como **QA Automation Junior** o **Frontend Developer Junior** en un equipo donde pueda aportar y seguir creciendo.
 
 ---
 
@@ -128,17 +123,7 @@ aportar y seguir creciendo.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanElejalde&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF87&icon_color=00FF87&text_color=c9d1d9&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanElejalde&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF87&text_color=c9d1d9)
-
-</div>
-
----
 
 ## 📜 Certificaciones
 
