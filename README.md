@@ -20,12 +20,14 @@
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero de Sistemas (UNAD) especializado en **QA Automation** y **Desarrollo Frontend**. Construyo software de calidad y automatizo procesos de prueba. Me enfoco en escribir código limpio, crear pruebas robustas y entregar valor real.
+Ingeniero de Sistemas (UNAD) con enfoque en **QA Automation** 
+y **Desarrollo Frontend**. He construido herramientas reales — 
+desde apps de escritorio con OCR hasta dashboards con APIs en 
+tiempo real — siempre con atención a la calidad y los detalles.
 
-- 🔭 Actualmente trabajando en proyectos de **automatización de pruebas con Cypress y Selenium**
-- 🌱 Aprendiendo **testing avanzado con IA** y **CI/CD con GitHub Actions**
-- 💼 Buscando mi primer rol como **QA Automation Junior** o **Frontend Developer Junior**
-- ⚡ Fun fact: Construí una app con OCR que lee cuotas deportivas en tiempo real
+Actualmente busco mi primer rol como **QA Automation Junior** 
+o **Frontend Developer Junior** en un equipo donde pueda 
+aportar y seguir creciendo.
 
 ---
 
